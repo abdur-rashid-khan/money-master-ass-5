@@ -80,6 +80,6 @@ document.getElementById('saveBtn').addEventListener('click',function(){
       errorTwo.innerText='Curren Balance From saving large'
       errorTwo.style.display='block';
    }else{
-      errorTwo.style.display='';
+      errorTwo.style.display='none';
    }
 })
