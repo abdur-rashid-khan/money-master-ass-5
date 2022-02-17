@@ -45,6 +45,6 @@ body{
    }
    @media only screen and (min-width:768px) {
       #photos{
-         height: 600px;
+         height: 700px;
       }
    }
